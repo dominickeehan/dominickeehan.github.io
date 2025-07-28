@@ -6,7 +6,7 @@ layout: default
 
 I am a PhD candidate in operations research at the University of Auckland. Broadly, I am interested in theory and methodology that enables decision making for the modern business environment.
 
-In 2024 I was a visiting researcher at Imperial College London, supported by the Claude McCarthy Fellowship. My recent research involves nonparametric estimation with nonstationary data. My previous research concerns the performance of approximations of stochastic dynamic programs. 
+In 2024 I was a visiting researcher at Imperial College London, supported by the Claude McCarthy Fellowship. My recent research involves nonparametric distribution estimation with nonstationary data. My previous research concerns the performance of approximations of multistage stochastic optimization problems. 
 
 ## Research
 
