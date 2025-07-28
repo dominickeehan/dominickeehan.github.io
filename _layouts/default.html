@@ -22,7 +22,7 @@
             <img 
               src="{{ site.logo | relative_url }}"
               alt="Logo"
-              style="width: 85%; height: auto;"
+              style="width: 80%; height: auto;"
             />
           {% endif %}
   
@@ -33,7 +33,7 @@
           {% endif %}
   
           {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+          <!-- <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
           {% endif %}
   
           {% if site.show_downloads %}
@@ -55,7 +55,12 @@
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <div style="text-align: center;">
-          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+          <p>
+            <small>
+              Hosted on GitHub Pages<br>
+              Theme adapted from <a href="https://pages-themes.github.io/minimal/">Minimal by <a href="https://github.com/orderedlist">orderedlist
+            </small>
+          </p>
         </div>
       </footer>
     </div>
