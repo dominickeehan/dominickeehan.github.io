@@ -4,11 +4,11 @@ layout: default
 
 # Hello
 
-I am a PhD candidate in operations research at the University of Auckland. Broadly, I am interested in theory and methodology that enables decision making for the modern business environment.
+I am a PhD candidate in operations research at the University of Auckland. Broadly speaking, I am interested in theory and methodology that enables decision making for the modern business environment.
 
-In 2024 I was a visiting researcher at Imperial College London, supported by the Claude McCarthy Fellowship. My recent research involves nonparametric distribution estimation with nonstationary data. My previous research concerns the performance of approximations of multistage stochastic optimization problems. 
+In 2024 I was a visiting researcher at Imperial Business School, supported by the Claude McCarthy Fellowship. My recent research focuses on estimation and distributionally robust optimization with nonstationary data. My previous research focuses on the approximation of multistage stochastic optimization problems. 
 
-## Research
+# Research
 
 * [Nonstationary Distribution Estimation via Wasserstein Probability Flows](https://arxiv.org/abs/2507.05893). Working paper.
 
