@@ -22,10 +22,12 @@
             <img 
               src="{{ site.logo | relative_url }}"
               alt="Logo"
-              style="width: 75%; height: auto;"
+              style="width: 75%; height: auto; border-radius: 10px;""
             />
           {% endif %}
 
+          <br>
+          
           <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
           
           <!-- <p>{{ site.description | default: site.github.project_tagline }}</p>
