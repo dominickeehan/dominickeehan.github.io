@@ -7,12 +7,12 @@ body {
   background-color:#222; //#fff;
   padding:50px;
   font:14px/1.5 "LMSans10", sans-serif; //font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#aaaaaa;//#727272;
+  color:#bbbbbb;//#727272;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#fff;//#222;
+  color:#ffffff;//#222;
   margin:0 0 20px;
 }
 
@@ -29,33 +29,33 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#ffffff;//#393939;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#ffffff;//#494949;
 }
 
 a {
-  color:#fff;//#222; //color:#267CB9;
+  color:#ffffff;//#222; //color:#267CB9;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#fff;//#222; //color:#069;
+  color:#ffffff;//#222; //color:#069;
   //font-weight:bold;
   font-style:italic;
 }
 
 a small {
   font-size:11px;
-  color:#fff;//#777;
+  color:#ffffff;//#777;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#fff;//#777;
+  color:#ffffff;//#777;
 }
 
 .wrapper {
