@@ -6,7 +6,7 @@ layout: default
 
 I am a PhD Candidate in Operations Research at the [University of Auckland](https://www.auckland.ac.nz/en.html). Broadly speaking, I am interested in theory and methodology that enables decision making for the modern business environment.
 
-In 2024 I was a visiting researcher at [Imperial Business School](https://www.imperial.ac.uk/business-school/), supported by the Claude McCarthy Fellowship. My recent research concerns estimation and distributionally robust optimization with nonstationary data. My previous research focuses on approximation of multistage stochastic optimization problems. 
+In 2024 I was a visiting researcher at [Imperial Business School](https://www.imperial.ac.uk/business-school/), supported by the Claude McCarthy Fellowship. My recent research focuses on estimation and distributionally robust optimization with nonstationary data. My previous research concerns approximation of multistage stochastic optimization problems. 
 
 # Research
 
