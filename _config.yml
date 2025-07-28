@@ -1,4 +1,6 @@
-remote_theme: pages-themes/minimal@v0.2.0
-
 title: Dominic Keehan
-description: Personal website
+logo: dom.jpg
+description: Description.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
