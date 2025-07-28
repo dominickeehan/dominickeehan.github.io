@@ -2,14 +2,20 @@
   font-family: 'LMSans10';
   font-weight: 400;
   font-style: normal;
-  src: url('../fonts/LMSans10-Regular.eot');
-  src: url('../fonts/LMSans10-Regular.eot?#iefix') format('embedded-opentype'),
+  //src: url('../fonts/LMSans10-Regular.eot');
+  //src: url('../fonts/LMSans10-Regular.eot?#iefix') format('embedded-opentype'),
+       //local('LMSans10'),
+       //local('LMSans10-regular'),
+       //url('../fonts/LMSans10-Regular.woff2') format('woff2'),
+       //url('../fonts/LMSans10-Regular.woff') format('woff'),
+       //url('../fonts/LMSans10-Regular.ttf') format('truetype'),
+  src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot');
+  src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix') format('embedded-opentype'),
        local('LMSans10'),
        local('LMSans10-regular'),
-       url('../fonts/LMSans10-Regular.woff2') format('woff2'),
-       url('../fonts/LMSans10-Regular.woff') format('woff'),
-       url('../fonts/LMSans10-Regular.ttf') format('truetype'),
-       //url('../fonts/LMSans10-Regular/LMSans10-Regular.svg#LMSans10') format('svg');
+       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff2') format('woff2'),
+       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.woff') format('woff'),
+       url('../fonts/Noto-Sans-regular/Noto-Sans-regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -22,22 +28,27 @@
        local('LMSans10-700'),
        url('../fonts/LMSans10-Bold.woff2') format('woff2'),
        url('../fonts/LMSans10-Bold.woff') format('woff'),
-       url('../fonts/LMSans10-Bold.ttf') format('truetype'),
-       //url('../fonts/LMSans10-Bold/LMSans10-Bold.svg#LMSans10') format('svg');
+       url('../fonts/LMSans10-Bold.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'LMSans10';
   font-weight: 400;
   font-style: italic;
-  src: url('../fonts/LMSans10-Oblique.eot');
-  src: url('../fonts/LMSans10-Oblique.eot?#iefix') format('embedded-opentype'),
+  //src: url('../fonts/LMSans10-Oblique.eot');
+  //src: url('../fonts/LMSans10-Oblique.eot?#iefix') format('embedded-opentype'),
+       //local('LMSans10 Italic'),
+       //local('LMSans10-italic'),
+       //url('../fonts/LMSans10-Oblique.woff2') format('woff2'),
+       //url('../fonts/LMSans10-Oblique.woff') format('woff'),
+       //url('../fonts/LMSans10-Oblique.ttf') format('truetype'),
+  src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.eot');
+  src: url('../fonts/Noto-Sans-italic/Noto-Sans-italic.eot?#iefix') format('embedded-opentype'),
        local('LMSans10 Italic'),
        local('LMSans10-italic'),
-       url('../fonts/LMSans10-Oblique.woff2') format('woff2'),
-       url('../fonts/LMSans10-Oblique.woff') format('woff'),
-       url('../fonts/LMSans10-Oblique.ttf') format('truetype'),
-       //url('../fonts/LMSans10-Oblique/LMSans10-Oblique.svg#LMSans10') format('svg');
+       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.woff2') format('woff2'),
+       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.woff') format('woff'),
+       url('../fonts/Noto-Sans-italic/Noto-Sans-italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -50,6 +61,5 @@
        local('LMSans10-700italic'),
        url('../fonts/LMSans10-BoldOblique.woff2') format('woff2'),
        url('../fonts/LMSans10-BoldOblique.woff') format('woff'),
-       url('../fonts/LMSans10-BoldOblique.ttf') format('truetype'),
-       //url('../fonts/LMSans10-BoldOblique/LMSans10-BoldOblique.svg#LMSans10') format('svg');
+       url('../fonts/LMSans10-BoldOblique.ttf') format('truetype');
 }
