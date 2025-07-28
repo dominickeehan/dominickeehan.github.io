@@ -11,6 +11,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <title>My Awesome Website</title>
   </head>
   <body>
     <div class="wrapper">
@@ -25,10 +26,8 @@
               style="width: 75%; height: auto; border-radius: 10px;""
             />
           {% endif %}
-
-          <br>
           
-          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+          <h1 style="margin-top: 10px;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
           
           <!-- <p>{{ site.description | default: site.github.project_tagline }}</p>
   
