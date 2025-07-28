@@ -10,7 +10,7 @@ In 2024 I was a visiting researcher at Imperial College London, supported by the
 
 ## Research
 
-* [Nonstationary Distribution Estimation via Wasserstein Probability Flows](https://arxiv.org/abs/2507.05893) Working paper.
+* [Nonstationary Distribution Estimation via Wasserstein Probability Flows](https://arxiv.org/abs/2507.05893). Working paper.
 
 * [Epi-Consistent Approximation of Stochastic Dynamic Programs](https://arxiv.org/abs/2501.19028). To appear in Journal of Convex Analysis.
 
