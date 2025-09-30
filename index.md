@@ -12,8 +12,8 @@ In 2024, supported by the Claude McCarthy Fellowship, I was a visiting researche
 
 * [Nonstationary Distribution Estimation via Wasserstein Probability Flows](https://arxiv.org/abs/2507.05893). Working paper.
 
-* [Epi-Consistent Approximation of Stochastic Dynamic Programs](https://arxiv.org/abs/2501.19028). To appear in Journal of Convex Analysis.
+* [Epi-Consistent Approximation of Stochastic Dynamic Programs](https://arxiv.org/abs/2501.19028). Forthcoming in Journal of Convex Analysis.
 
-* [On the Out-of-Sample Performance of Stochastic Dynamic Programming and Model Predictive Control](https://arxiv.org/abs/2506.23097). To appear in INFORMS Journal on Optimization.
+* [On the Out-of-Sample Performance of Stochastic Dynamic Programming and Model Predictive Control](https://arxiv.org/abs/2506.23097). Forthcoming in INFORMS Journal on Optimization.
 
 For a complete list of publications, see [my Google Scholar page](https://scholar.google.com/citations?user=IJ_ntlMAAAAJ&hl=en).
