@@ -10,12 +10,10 @@ In 2024, supported by the Claude McCarthy Fellowship, I was a visiting researche
 
 # Research
 
-* [Don't Look Back in Anger: Wasserstein Distributionally Robust Optimization with Nonstationary Data](https://arxiv.org/abs/2510.18566). Working&nbsp;paper.
+* [Don't Look Back in Anger: Wasserstein Distributionally Robust Optimization with Nonstationary Data](https://arxiv.org/abs/2510.18566). With Eddie Anderson & Wolfram Wiesemann. Working paper&nbsp;(2025).
 
-* [Nonstationary Distribution Estimation via Wasserstein Probability Flows](https://arxiv.org/abs/2507.05893). Working&nbsp;paper.
+* [Nonstationary Distribution Estimation via Wasserstein Probability Flows](https://arxiv.org/abs/2507.05893). With Eddie Anderson. Working paper&nbsp;(2025).
 
-* [Epi-Consistent Approximation of Stochastic Dynamic Programs](https://arxiv.org/abs/2501.19028). Forthcoming in Journal of Convex&nbsp;Analysis.
+* [Epi-Consistent Approximation of Stochastic Dynamic Programs](https://arxiv.org/abs/2501.19028). With Johannes Royset. Forthcoming in Journal of Convex Analysis&nbsp;(2025).
 
-* [On the Out-of-Sample Performance of Stochastic Dynamic Programming and Model Predictive Control](https://arxiv.org/abs/2506.23097). Forthcoming in INFORMS Journal&nbsp;on&nbsp;Optimization.
-
-For a complete list of publications, see [my Google Scholar&nbsp;page](https://scholar.google.com/citations?user=IJ_ntlMAAAAJ&hl=en).
+* [On the Out-of-Sample Performance of Stochastic Dynamic Programming and Model Predictive Control](https://arxiv.org/abs/2506.23097). With Andy Philpott & Eddie Anderson. Forthcoming in INFORMS Journal on Optimization&nbsp;(2025).
