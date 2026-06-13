@@ -4,7 +4,7 @@ layout: default
 
 # Hello
 
-I am a postdoc at [Imperial Business School](https://www.imperial.ac.uk/business-school/). Broadly speaking, I am interested in theory and methodology that enables decision-making under uncertainty. My PhD Thesis is avaialable [here](/assets/Stochastic%20Control%20and%20Optimization%20with%20Nonstationary%20Data.pdf).
+I am a postdoc at [Imperial Business School](https://www.imperial.ac.uk/business-school/). Broadly speaking, I am interested in theory and methodology that enables decision-making under uncertainty. My PhD Thesis is available [here](/assets/Stochastic%20Control%20and%20Optimization%20with%20Nonstationary%20Data.pdf).
 
 <!---I am a PhD Candidate in Operations Research at the [University of Auckland](https://www.auckland.ac.nz/en.html), supervised by [Andy Philpott](https://scholar.google.com/citations?hl=en&user=AJ6YFH4AAAAJ&view_op=list_works&sortby=pubdate). Broadly speaking, I am interested in theory and methodology that enables decision-making under&nbsp;uncertainty.>
 
