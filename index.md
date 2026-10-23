@@ -4,9 +4,9 @@ layout: default
 
 # Hello
 
-I work on data-driven decision making. My research develops optimisation methods that learn from imperfect data, scale to large problems, and produce interpretable decisions.
+I work on data-driven decision making. My research develops optimization methods that learn from imperfect data, scale to large problems, and produce interpretable decisions.
 
-I am an Imperial College Research Fellow at [Imperial Business School](https://www.imperial.ac.uk/business-school/), working with [Ryan Cory-Wright](https://ryancorywright.github.io/) and [Wolfram Wiesemann](https://wp.doc.ic.ac.uk/wwiesema/). I completed my PhD in Operations Research at the [University of Auckland](https://www.auckland.ac.nz/en.html), supervised by [Andy Philpott](https://www.epoc.org.nz). My PhD Thesis is available [here](/assets/Stochastic%20Control%20and%20Optimization%20with%20Nonstationary%20Data.pdf)
+I am an Imperial College Research Fellow at [Imperial Business School](https://www.imperial.ac.uk/business-school/), working with [Ryan Cory-Wright](https://ryancorywright.github.io/) and [Wolfram Wiesemann](https://wp.doc.ic.ac.uk/wwiesema/). I completed [my PhD](/assets/Stochastic%20Control%20and%20Optimization%20with%20Nonstationary%20Data.pdf) in Operations Research at the [University of Auckland](https://www.auckland.ac.nz/en.html), supervised by [Andy Philpott](https://www.epoc.org.nz).
 
 <!---I am a postdoc at [Imperial Business School](https://www.imperial.ac.uk/business-school/). Broadly speaking, I am interested in theory and methodology that enables decision-making under uncertainty. My PhD Thesis is available [here](/assets/Stochastic%20Control%20and%20Optimization%20with%20Nonstationary%20Data.pdf).--->
 
@@ -24,6 +24,6 @@ In 2024, supported by the Claude McCarthy Fellowship, I was a visiting researche
 
 * [On the Out-of-Sample Performance of Stochastic Dynamic Programming and Model Predictive Control](https://arxiv.org/abs/2506.23097). With Andy Philpott &&nbsp;Eddie Anderson. INFORMS Journal on Optimization&nbsp;(2025).
 
-# Work in Progress
+# In Progress
 
 * Making Optimization Interpretable with Optimal Decision Trees. With Ryan Cory-Wright &&nbsp;Alexandre Jacquillat. In preparation&nbsp;(2026).
